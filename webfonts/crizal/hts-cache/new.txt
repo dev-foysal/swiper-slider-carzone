@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:17:35	318/318	---M--	403	error ('Forbidden')	text/html	date:Sun,%2013%20Mar%202022%2012:17:36%20GMT	https://crizal.chitrakootweb.com/home-startup.html	C:/Users/Foysal%20Ahmed/Desktop/boiler%20plate/webfonts/crizal/crizal.chitrakootweb.com/home-startup.0.delayed	(from )
+18:17:36	318/318	---M--	403	error ('Forbidden')	text/html	date:Sun,%2013%20Mar%202022%2012:17:37%20GMT	https://crizal.chitrakootweb.com/robots.txt		(from )
